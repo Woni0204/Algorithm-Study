@@ -10,6 +10,8 @@ Studying about [Python Algorithm Interview](https://github.com/onlybooks/python-
 [![GitHub issues](https://img.shields.io/github/issues/Woni0204/Algorithm-Study?color=%232da44e)](https://github.com/Woni0204/Algorithm-Study/issues)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Woni0204/Algorithm-Study?color=%238250df)](https://github.com/Woni0204/Algorithm-Study/pulls)
 
+</div>
+
 ## Chapter 01
 | Title | Upload | Solution Code |
 | ------- | --- | ------ |
