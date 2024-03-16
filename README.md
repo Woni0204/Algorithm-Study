@@ -15,4 +15,4 @@ Studying about [Python Algorithm Interview](https://github.com/onlybooks/python-
 ## Chapter 01
 | Title | Upload | Solution Code | Original Solution Code |
 | ------- | --- | ------ | ----- |
-
+| | X | | |
