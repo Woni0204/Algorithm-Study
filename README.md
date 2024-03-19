@@ -12,6 +12,8 @@ Studying about [Python Algorithm Interview](https://github.com/onlybooks/python-
 
 </div>
 
+* Upload theory and examples at once as an ipynb file.
+
 ## Chapter 01
 | Title | Upload | Solution Code | Original Solution Code |
 | ------- | --- | ------ | ----- |
