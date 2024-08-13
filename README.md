@@ -1,6 +1,8 @@
 # Python-Algorithm-Interview Study
 <div align="center">
-
+<p align="center">
+  <img src = "./Python-Algorithm-Interview.jpg">
+</p>
 
 Studying about [Python Algorithm Interview](https://github.com/onlybooks/python-algorithm-interview)!<br>
 
